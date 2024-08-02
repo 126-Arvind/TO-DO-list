@@ -1,2 +1,9 @@
-# TO-DO-list
-To-Do List App or Website with HTML, CSS, JavaScript and React.  In this To Do list we can add our task list and mark that task as completed or incomplete. We can write the new task in the input box and click on the "Add" button then the new task will be added to the list. We can click on the task name to mark it as completed or incomplete task. 
+Task Title: Build a Simple React To-Do Application
+
+Objective: Develop a basic To-Do application using ReactJS that allows users to add, view, and delete tasks. This application should showcase your understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
+
+Functionality:
+Add Task: Users should be able to input a task into a text field and add it to the list by pressing a button or pressing Enter.
+View Tasks: Display all added tasks in a list format.
+Delete Task: Each task should have a delete button that, when clicked, removes the task from the list.
+Edit Task: Each task should have an edit button that, when clicked, task popup opens from the list.
